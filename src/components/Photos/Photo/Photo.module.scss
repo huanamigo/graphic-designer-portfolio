@@ -1,0 +1,10 @@
+.photo {
+  // width: 100px;
+  // height: 100px;
+  z-index: 100;
+  transition: all ease 200ms;
+
+  &:hover {
+    opacity: 0.7;
+  }
+}

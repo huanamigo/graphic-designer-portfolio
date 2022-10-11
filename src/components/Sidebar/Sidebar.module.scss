@@ -1,0 +1,28 @@
+.sidebar {
+  display: inline-block;
+  height: 100vh;
+  width: 15vw;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  padding: 100px 30px;
+  position: static;
+}
+
+.h1 {
+  font-size: 50px;
+  padding-bottom: 50px;
+}
+
+.anchor {
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  padding-top: 20px;
+  text-align: left;
+  transition: all ease 200ms;
+
+  &:hover {
+    color: red;
+  }
+}
