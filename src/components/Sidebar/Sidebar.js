@@ -4,7 +4,7 @@ import styles from './Sidebar.module.scss';
 function Sidebar() {
   return (
     <div className={styles.sidebar}>
-      <h1 className={styles.h1}>CHUJ DESIGN</h1>
+      <h1 className={styles.h1}>PROJECT DESIGN</h1>
       <div>
         <a className={styles.anchor} href="##">
           a
